@@ -67,15 +67,5 @@ import MealDetails from './MealDetails';
       textAlign: 'center',
       fontSize: 18,
       margin: 8,
-    },
-    details: {
-      flexDirection: 'row',
-      alignItems: 'center',
-      justifyContent: 'center',
-      padding: 8,
-    },
-    detailItem: {
-      marginHorizontal: 4,
-      fontSize: 12,
-    },
+    }
   });
